@@ -4,6 +4,8 @@
 
 <hr>
 
+## Open IBM Cloud Service Catalog:
+
 [IoT Platform service (not boilerplate) catalog](https://console.bluemix.net/catalog/services/internet-of-things-platform)
 
 <hr>

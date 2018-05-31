@@ -4,4 +4,6 @@
 
 <hr>
 
+## Open IBM Cloud Service Catalog:
+
 [Watson Speech To Text service catalog](https://console.bluemix.net/catalog/services/speech-to-text)
