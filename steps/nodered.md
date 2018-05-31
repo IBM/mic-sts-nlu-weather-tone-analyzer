@@ -30,4 +30,4 @@
 * If you don't see the service credentials, you can create a new one: `Create Credentials`
 * Internet of Things Platform will require to create an `api key` and `api token`. There's an how-to guide included on [IoT page](https://github.com/hovig/mic-sts-nlu-weather-tone-analyzer/blob/master/steps/iot.md#how-to).
 * For the missing nodes (dashed), click on: `Burger Menu` -> `Manage Palette` -> `Install`
-  Then, type in the search field (search modules) to install the `microphone`, `play-audio`, `bluemix-dashboard`
+  <br>Then, type in the search field (search modules) to install the `microphone`, `play-audio`, `bluemix-dashboard`
