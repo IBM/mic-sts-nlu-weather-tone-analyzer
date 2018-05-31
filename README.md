@@ -1,7 +1,9 @@
-# Assistant Watson-Alex
 
-**__Skill Level__**: Beginner
-<br>**__N.B__**: All services used in this repo are Lite plans. Don't forget to star this repo if you like it.
+<b><u>Skill Level</u></b>: Beginner
+<br><b><u>N.B</u></b>: All services used in this repo are Lite plans. Don't forget to star this repo if you like it.
+
+
+# Assistant Watson-Alex
 
 ![](https://raw.githubusercontent.com/hovig/mic-sts-nlu-weather-tone-analyzer/master/img/audio-arch.png)
 
