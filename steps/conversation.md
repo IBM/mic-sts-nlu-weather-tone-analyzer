@@ -4,6 +4,6 @@
 
 <hr>
 
-## Open IBM Cloud Service Catalog:
+### Open IBM Cloud Service Catalog:
 
-[Watson Assistant catalog](https://console.bluemix.net/catalog/services/watson-assistant-formerly-conversation)
+> [Watson Assistant catalog](https://console.bluemix.net/catalog/services/watson-assistant-formerly-conversation)

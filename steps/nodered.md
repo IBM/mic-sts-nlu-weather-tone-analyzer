@@ -1,8 +1,8 @@
 # Node-RED Starter
 
-## Open IBM Cloud Service Catalog:
+### Open IBM Cloud Service Catalog:
 
-[Click to create the Node-RED boilerplate starter](https://console.bluemix.net/catalog/starters/node-red-starter).
+> [Click to create the Node-RED boilerplate starter](https://console.bluemix.net/catalog/starters/node-red-starter).
 
 <hr>
 
