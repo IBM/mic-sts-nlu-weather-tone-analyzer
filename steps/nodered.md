@@ -17,7 +17,7 @@
 * Click on the `Visit App URL`
 * Open the Node-RED editor and setup your own `username` and `password`
 * On the top right side of the editor, click on: `Burger Menu` -> `Import` -> `Clipboard`
-* Copy the code from the `[scripts/flow.json](https://raw.githubusercontent.com/hovig/mic-sts-nlu-weather-tone-analyzer/master/scripts/flow.json)` in Github
+* Copy the code from the [scripts/flow.json](https://raw.githubusercontent.com/hovig/mic-sts-nlu-weather-tone-analyzer/master/scripts/flow.json) in Github
 * Paste the code in the `Clipboard` in the Node-RED editor
 
 ![](https://raw.githubusercontent.com/hovig/mic-sts-nlu-weather-tone-analyzer/master/img/mic-audio-full-code.png)
