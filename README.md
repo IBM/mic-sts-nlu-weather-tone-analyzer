@@ -21,7 +21,6 @@
 * Step 6 - [Conversation](https://github.com/hovig/mic-sts-nlu-weather-tone-analyzer/blob/master/steps/conversation.md)
 * Step 7 - [Internet of Things](https://github.com/hovig/mic-sts-nlu-weather-tone-analyzer/blob/master/steps/iot.md)
 
-<hr>
 
 ## Important Naming Notes
 
