@@ -12,13 +12,13 @@
 
 ## TUTORIAL STEPS
 
-* Step 1 - [Node-RED](https://github.com/hovig/mic-sts-nlu-weather-tone-analyzer/blob/master/steps/nodered.md)
+* Step 1 & 6 - [Node-RED](https://github.com/hovig/mic-sts-nlu-weather-tone-analyzer/blob/master/steps/nodered.md)
 * Step 2 - [Speech-To-Text](https://github.com/hovig/mic-sts-nlu-weather-tone-analyzer/blob/master/steps/stt.md)
-* Step 3 - [Text-To-Speech](https://github.com/hovig/mic-sts-nlu-weather-tone-analyzer/blob/master/steps/tts.md)
-* Step 4 - [Weather Insights](https://github.com/hovig/mic-sts-nlu-weather-tone-analyzer/blob/master/steps/weather.md)
-* Step 5 - [Tone Analyzer](https://github.com/hovig/mic-sts-nlu-weather-tone-analyzer/blob/master/steps/tone.md)
-* Step 6 - [Conversation](https://github.com/hovig/mic-sts-nlu-weather-tone-analyzer/blob/master/steps/conversation.md)
-* Step 7 - [Internet of Things](https://github.com/hovig/mic-sts-nlu-weather-tone-analyzer/blob/master/steps/iot.md)
+* Step 3 - [Internet of Things](https://github.com/hovig/mic-sts-nlu-weather-tone-analyzer/blob/master/steps/iot.md)
+* Step 4a - [Weather Insights](https://github.com/hovig/mic-sts-nlu-weather-tone-analyzer/blob/master/steps/weather.md)
+* Step 4b1 - [Tone Analyzer](https://github.com/hovig/mic-sts-nlu-weather-tone-analyzer/blob/master/steps/tone.md)
+* Step 4b2 - [Assistant](https://github.com/hovig/mic-sts-nlu-weather-tone-analyzer/blob/master/steps/conversation.md)
+* Step 5 - [Text-To-Speech](https://github.com/hovig/mic-sts-nlu-weather-tone-analyzer/blob/master/steps/tts.md)
 
 
 ## Important Naming Notes
