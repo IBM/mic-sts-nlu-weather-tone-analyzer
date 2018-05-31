@@ -9,6 +9,10 @@
 
 <hr>
 
+### Before you begin
+
+* Create an IBM Cloud account if you don't have an existing one: [Sign up](https://console.ng.bluemix.net/registration/?target=/catalog/%3fcategory=watson).
+
 
 ## TUTORIAL STEPS
 
