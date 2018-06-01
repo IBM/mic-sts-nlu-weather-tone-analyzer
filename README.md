@@ -9,6 +9,15 @@
 
 <hr>
 
+## Introduction
+
+The idea behind this project is to provide a hands-on fun workshop using Node-RED and Watson's cognitive solutions for audio conversations. Audio tends to have its own challenges and this step-by-step tutorial hopefully can help you enjoy coding and also target your goals through this experience.
+
+This pattern uses the Car Dashboard Conversation workspace that comes by default when you create the Assistant (formerly Conversation) service. The reason is to avoid complications but you can always create or import your own conversation workspace, this might be a good idea to do a separate tutorial once this pattern gets consumed easily by developers.
+
+After the completion of this tutorial, this application will record your talk and send it over to Watson's services to retrieve, based on your request, the weather data of a city.. Or can send commands and receive responses through a conversation, for example, to turn on lights or to play a music and many more.
+
+
 ### Before you begin
 
 * Create an IBM Cloud account if you don't have an existing one: [Sign up](https://console.ng.bluemix.net/registration/?target=/catalog/%3fcategory=watson).

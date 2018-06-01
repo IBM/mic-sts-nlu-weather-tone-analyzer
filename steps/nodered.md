@@ -29,6 +29,7 @@
 ### Important Notes that are needed for the service nodes in Node-RED editor:
 
 * Copy and paste into one place all usernames, passwords and hosts of all services for easy access when needed
+* `These credentials will be used in the Node-RED editor for each service node, without them your app will not behave as intended in this turorial`
 * Each service will automatically create its credentials: `Username` and `Password`
 * If you don't see the service credentials, you can create a new one: `Create Credentials`
 * Internet of Things Platform will require to create an `api key` and `api token`. There's an how-to guide included on [IoT page](https://github.com/hovig/mic-sts-nlu-weather-tone-analyzer/blob/master/steps/iot.md#how-to).
