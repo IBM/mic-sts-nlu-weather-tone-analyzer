@@ -11,7 +11,7 @@
 ### Setting up the Assistant service:
 
 * In your IBM Cloud console, open the Conversation service instance where you imported the workspace.
-* This project uses an existing workspace called `Car Dashboard` that has already defined the intents, entities and the dialog flow. From more information check [here](https://console.bluemix.net/docs/tutorials/android-watson-chatbot.html#build-a-voice-enabled-android-chatbot).
+* This project uses an existing workspace called `Car Dashboard` that has already defined the intents, entities and the dialog flow. From more information to get an idea on how to create a conversation (workspace, intent, entities, etc.), check [here](https://console.bluemix.net/docs/tutorials/android-watson-chatbot.html#build-a-voice-enabled-android-chatbot).
 * Click the menu icon in the upper-right corner of the workspace tile, and then select **View details**.
 
     ![Car dashboard workspace id](https://raw.githubusercontent.com/hovig/mic-sts-nlu-weather-tone-analyzer/master/img/assistant-workspace_id.png)
