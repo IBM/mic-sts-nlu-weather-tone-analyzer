@@ -1,6 +1,6 @@
 # Watson Text To Speech
 
-![](img/text-to-speech-catalog.png)
+![](../img/text-to-speech-catalog.png)
 
 <hr>
 

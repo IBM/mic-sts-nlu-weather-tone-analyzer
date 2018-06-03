@@ -6,13 +6,13 @@
 
 <hr>
 
-![](img/node-red-catalog.png)
+![](../img/node-red-catalog.png)
 
 <hr>
 
 * Increase the `GB MEMORY PER INSTANCE` to 1 to avoid deploy failures
 
-![](img/node-red-running-instance.png)
+![](../img/node-red-running-instance.png)
 
 <hr>
 
@@ -22,7 +22,7 @@
 * Copy the code from the [scripts/flow.json](scripts/flow.json) in Github
 * Paste the code in the `Clipboard` in the Node-RED editor
 
-![](img/mic-audio-full-code.png)
+![](../img/mic-audio-full-code.png)
 
 <hr>
 

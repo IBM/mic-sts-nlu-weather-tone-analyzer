@@ -1,6 +1,6 @@
 # Watson Assistant (formerly Conversation)
 
-![](img/assistant-catalog.png)
+![](../img/assistant-catalog.png)
 
 <hr>
 
@@ -16,7 +16,7 @@
 
     ![Car dashboard workspace id](img/assistant-workspace_id.png)
 
-* Click the ![Copy](img/copy_icon.png) icon to copy the workspace ID to the clipboard.
+* Click the ![Copy](../img/copy_icon.png) icon to copy the workspace ID to the clipboard.
 
 * In your Node-RED editor, paste the workspace ID into the WORKSPACE_ID variable in the `Assistant` node. Save it and deploy Node-RED.
 * In your Node-RED editor also, you can choose from the list of different voices in the `Assistant` node that come with a `name`, a `language` and a `gender`.

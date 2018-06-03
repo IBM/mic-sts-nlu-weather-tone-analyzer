@@ -1,6 +1,6 @@
 # Watson Tone Analyzer
 
-![](img/tone-analyzer-catalog.png)
+![](../img/tone-analyzer-catalog.png)
 
 <hr>
 

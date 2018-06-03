@@ -1,6 +1,6 @@
 # IoT - Weather Company Data
 
-![](img/weather-catalog.png)
+![](../img/weather-catalog.png)
 
 <hr>
 
