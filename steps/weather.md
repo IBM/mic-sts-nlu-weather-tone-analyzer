@@ -1,6 +1,6 @@
 # IoT - Weather Company Data
 
-![](https://raw.githubusercontent.com/hovig/mic-sts-nlu-weather-tone-analyzer/master/img/weather-catalog.png)
+![](img/weather-catalog.png)
 
 <hr>
 

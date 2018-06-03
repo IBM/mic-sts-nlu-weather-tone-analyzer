@@ -1,6 +1,6 @@
 # Watson Speech To Text
 
-![](https://raw.githubusercontent.com/hovig/mic-sts-nlu-weather-tone-analyzer/master/img/speech-to-text-catalog.png)
+![](img/speech-to-text-catalog.png)
 
 <hr>
 

@@ -5,7 +5,7 @@
 
 # Assistant Watson-Alex
 
-![](https://raw.githubusercontent.com/hovig/mic-sts-nlu-weather-tone-analyzer/master/img/audio-arch.png)
+![](img/audio-arch.png)
 
 <hr>
 

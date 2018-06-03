@@ -1,6 +1,6 @@
 # Watson Tone Analyzer
 
-![](https://raw.githubusercontent.com/hovig/mic-sts-nlu-weather-tone-analyzer/master/img/tone-analyzer-catalog.png)
+![](img/tone-analyzer-catalog.png)
 
 <hr>
 

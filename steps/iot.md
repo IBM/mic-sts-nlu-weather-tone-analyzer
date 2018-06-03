@@ -1,6 +1,6 @@
 # Internet of Things Platform
 
-![](https://raw.githubusercontent.com/hovig/mic-sts-nlu-weather-tone-analyzer/master/img/iot-service-catalog.png)
+![](img/iot-service-catalog.png)
 
 <hr>
 
@@ -12,7 +12,7 @@
 
 After you create the service, open the IoT Platform service and click Launch button:
 
-![](https://raw.githubusercontent.com/hovig/mic-sts-nlu-weather-tone-analyzer/master/img/iot-click-launch.png)
+![](img/iot-click-launch.png)
 
 <hr>
 
