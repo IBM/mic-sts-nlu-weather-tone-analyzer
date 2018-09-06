@@ -11,32 +11,31 @@
 
 ## Introduction
 
-The idea behind this project is to provide a hands-on fun workshop using Node-RED and Watson's cognitive solutions for audio conversations. Audio tends to have its own challenges and this step-by-step tutorial hopefully can help you enjoy coding and also target your goals through this experience.
+With this project, you can quickly build a Node-RED app and use the Watson cognitive services for audio conversations. You’ll use the Watson Assistant service (formerly known as Watson Conversation service) and its Car Dashboard Conversation workspace as a starting point to building your conversation app. You can create or import your own conversation workspace, but using this provided one will get you started quickly.
 
-This pattern uses the Car Dashboard Conversation workspace that comes by default when you create the Assistant (formerly Conversation) service. The reason is to avoid complications but you can always create or import your own conversation workspace, this might be a good idea to do a separate tutorial once this pattern gets consumed easily by developers.
-
-After the completion of this tutorial, this application will record your talk and send it over to Watson's services to retrieve, based on your request, the weather data of a city.. Or can send commands and receive responses through a conversation, for example, to turn on lights or to play a music and many more.
+This app records your speech, sends it to the Watson services to process the request. It can handle requests for the weather, or you can send commands and receive responses through a conversation to turn on the lights or play music. The possibilities are endless.
 
 
 ### Before you begin
 
-* Create an IBM Cloud account if you don't have an existing one: [Sign up](https://console.ng.bluemix.net/registration/?target=/catalog/%3fcategory=watson).
+* Create an IBM Cloud account if you don't have an existing one: [Sign up](https://console.bluemix.net/registration/).
 
 
 ## TUTORIAL STEPS
 
-* Step 1 & 6 - [Node-RED](steps/nodered.md)
-* Step 2 - [Speech-To-Text](steps/stt.md)
-* Step 3 - [Internet of Things](steps/iot.md)
-* Step 4a - [Weather Insights](steps/weather.md)
-* Step 4b1 - [Tone Analyzer](steps/tone.md)
-* Step 4b2 - [Assistant](steps/conversation.md)
-* Step 5 - [Text-To-Speech](steps/tts.md)
+* Step 1 - [Create an IBM Cloud app using the Node-RED Starter application.](steps/nodered.md)
+* Step 2 - [Add Speech-To-Text service from IBM Cloud Catalog.](steps/stt.md)
+* Step 3 - [Add Internet of Things service from IBM Cloud Catalog.](steps/iot.md)
+* Step 4a - [Add Weather Insights service from IBM Cloud Catalog.](steps/weather.md)
+* Step 4b1 - [Add Tone Analyzer service from IBM Cloud Catalog.](steps/tone.md)
+* Step 4b2 - [Add Assistant service from IBM Cloud Catalog.](steps/conversation.md)
+* Step 5 - [Add Text-To-Speech service from IBM Cloud Catalog.](steps/tts.md)
+* Step 6 - [Back to Node-RED application to make sure that the microphone and the audio are installed & working.](steps/nodered.md)
 
 
 ## Important Naming Notes
 
-* Bluemix aka IBM Cloud
+* Bluemix is now known as IBM Cloud.
 
 
 ## Useful links
