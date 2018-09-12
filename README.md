@@ -8,7 +8,7 @@
 
 ## Introduction
 
-With this project, you can quickly build a Node-RED app and use the Watson cognitive services for audio conversations. You’ll use the Watson Assistant service (formerly known as Watson Conversation service) and its Car Dashboard Conversation workspace as a starting point to building your conversation app. You can create or import your own conversation workspace, but using this provided one will get you started quickly.
+With this project, you can quickly build a Node-RED Starter app and use the Watson cognitive services for audio conversations. You’ll use the Watson Assistant service (formerly known as Watson Conversation service) and its Car Dashboard Conversation workspace as a starting point to building your conversation app. You can create or import your own conversation workspace, but using this provided one will get you started quickly.
 
 This app records your speech, sends it to the Watson services to process the request. It can handle requests for the weather, or you can send commands and receive responses through a conversation to turn on the lights or play music. The possibilities are endless.
 
@@ -29,7 +29,7 @@ This app records your speech, sends it to the Watson services to process the req
 * Step 5 - [Add Tone Analyzer service from IBM Cloud Catalog.](steps/tone.md)
 * Step 6 - [Add Assistant service from IBM Cloud Catalog.](steps/conversation.md)
 * Step 7 - [Add Text-To-Speech service from IBM Cloud Catalog.](steps/tts.md)
-* Step 8 - [Back to Node-RED application to make sure that the microphone and the audio are installed & working.](steps/nodered.md)
+* Step 8 - Back to Node-RED Starter application (as in Step 1) to make sure that the microphone and the audio are installed & working.
 
 
 ## Important Naming Notes
