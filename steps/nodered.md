@@ -22,7 +22,7 @@
 * Copy the code from the [scripts/flow.json](scripts/flow.json) in Github
 * Paste the code in the `Clipboard` in the Node-RED Starter's editor
 
-![](../img/mic-audio-full-code.png)
+![](../img/flow.png)
 
 <hr>
 

@@ -8,9 +8,9 @@
 
 ## Introduction
 
-With this project, you can quickly build a Node-RED Starter app and use the Watson cognitive services for audio conversations. You’ll use the Watson Assistant service (formerly known as Watson Conversation service) and its Car Dashboard Conversation workspace as a starting point to building your conversation app. You can create or import your own conversation workspace, but using this provided one will get you started quickly.
+With this project, you can quickly build a Node-RED Starter app and use the Watson cognitive services for audio conversations. You’ll use the Watson Assistant service (formerly known as Watson Conversation service) and its Car Dashboard Conversation workspace (**This workspace is no longer available and will not effect on the use of this project**) as a starting point to building your conversation app. You can create or import your own conversation workspace, but using this provided one will get you started quickly.
 
-This app records your speech, sends it to the Watson services to process the request. It can handle requests for the weather, or you can send commands and receive responses through a conversation to turn on the lights or play music. The possibilities are endless.
+This app records your speech, sends it to the Watson services to process the request. It can handle requests for the weather, or you can send commands and receive responses through a conversation to turn on the lights or play music. The possibilities are endless. Show us what you'll build.
 
 
 ### Before you begin
@@ -30,11 +30,9 @@ This app records your speech, sends it to the Watson services to process the req
 * Step 6 - [Add Assistant service from IBM Cloud Catalog.](steps/conversation.md)
 * Step 7 - [Add Text-To-Speech service from IBM Cloud Catalog.](steps/tts.md)
 * Step 8 - Back to Node-RED Starter application (as in Step 1) to make sure that the microphone and the audio are installed & working.
+* Step 9 - Sign up to OpenCage Geocoder https://opencagedata.com/api for free API key that will be used to get latitude and longitude.
 
-
-## Important Naming Notes
-
-* Bluemix is now known as IBM Cloud.
+> Make sure to have your device's microphone and speaker active for this project
 
 
 ## Useful links
@@ -52,4 +50,3 @@ This app records your speech, sends it to the Watson services to process the req
 This code pattern is licensed under the Apache Software License, Version 2.  Separate third party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1 (DCO)](https://developercertificate.org/) and the [Apache Software License, Version 2](http://www.apache.org/licenses/LICENSE-2.0.txt).
 
 [Apache Software License (ASL) FAQ](http://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN)
-
